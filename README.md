@@ -14,3 +14,6 @@ To use for analysis
 
 To use for extraction
 ./fil e /path/to/.fil
+
+
+Many thanks to https://github.com/shlainn/game-file-formats/wiki/Constructor-.FIL-files for providing the file format

@@ -6,6 +6,9 @@ game videos and sounds.
 
 Caution: This tool will extract files to the current directory
 
+To compile:
+make
+
 To use for analysis
 ./fil a /path/to/.fil
 
